@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Shocked. ⚡</title>
+    <title>Shocked. </title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="icon" type="image/png" href="https://www.tryimg.com/u/2021/04/19/icon-large-500x500.png">
   </head>
@@ -40,7 +40,7 @@
         <h1 style="margin-top: 300px;">Wanna get in touch?</h1>
         <p style="width: 700px;">I'm available most of the day, so if you need something or just want to chat with me, you can chat on my Scratch page or my socials.</p>
         <a href="https://shockked.github.io/contact/"><button style="margin-top: 10px;" class="yellow">View Socials</button></a>
-        <a href="https://scratch.mit.edu/users/-Shocked-/"><button style="margin-top: 10px;" class="orange">Scratch</button></a>
+        <a href="https://scratch.mit.edu/users/Vectornerds/"><button style="margin-top: 10px;" class="orange">Scratch</button></a>
       </center>
     </div>
   </body>
