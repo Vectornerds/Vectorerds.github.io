@@ -9,7 +9,7 @@
   </head>
   <body>
     <div class="nav">
-      <a href="https://shockked.github.io/"><img class="nav-img" src="https://www.tryimg.com/u/2021/04/19/icon-large-500x500.png"></a>
+      <a href="https://Vectorr.github.io/"><img class="nav-img" src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fcdn2.scratch.mit.edu%2Fget_image%2Fuser%2F71956597_60x60.png&imgrefurl=http%3A%2F%2Fuploads.scratch.mit.edu%2Fusers%2Fqwertyuiop%2F&tbnid=UZKfOSf12fgxpM&vet=12ahUKEwjW1uTjzdTwAhVHZawKHQsaDPsQMygAegQIARAg..i&docid=XXf5lqJvNvQxeM&w=500&h=500&q=fictional%20character&hl=en&safe=active&ved=2ahUKEwjW1uTjzdTwAhVHZawKHQsaDPsQMygAegQIARAg"></a>
     </div>
     <div class="content">
       <center>
@@ -34,7 +34,7 @@
         <h1 style="margin-top: 10px;">Scratch.</h1>
         <p style="margin-left: 800px;">I'm on Scratch alot, so you should see me around sometime—My username is <a>-Shocked-</a> and I run code tests, make designs, and develop games. I'm open to collabs at the moment, even though I have like 4 (I also prefer apps over games), so reach out to me sometime if you want to do something and I'll see. </p>
         <a href="https://shockked.github.io/projects/"><button style="margin-top: 10px;" class="yellow">View Projects</button></a>
-        <a href="https://scratch.mit.edu/users/-Shocked-/projects/"><button style="margin-top: 10px;" class="orange">View on Scratch</button></a>
+        <a href="https://scratch.mit.edu/users/Vectornerds/projects/"><button style="margin-top: 10px;" class="orange">View on Scratch</button></a>
       </div>
       <center>
         <h1 style="margin-top: 300px;">Wanna get in touch?</h1>
